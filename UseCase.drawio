@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T15:29:20.843Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WXhHuYLGqtqqrftHzKba" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T15:30:07.274Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GKRxxDSLmZbeR2lkgBIO" version="21.6.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2857" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5011" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,25 +128,7 @@
           <mxGeometry x="910" y="185" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FrziFFQu4rmucwJ09yhm-38" value="Email taken ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="9igJYdg4yH1vZDe2RQtB-3" vertex="1">
-          <mxGeometry x="140" y="325" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9igJYdg4yH1vZDe2RQtB-309" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="9igJYdg4yH1vZDe2RQtB-3" source="FrziFFQu4rmucwJ09yhm-34" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="74" y="425" as="sourcePoint" />
-            <mxPoint x="196" y="426" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="119" y="426" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9igJYdg4yH1vZDe2RQtB-310" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="9igJYdg4yH1vZDe2RQtB-3" source="FrziFFQu4rmucwJ09yhm-35" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="307" y="333" as="sourcePoint" />
-            <mxPoint x="194" y="426" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="274" y="426" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="220" y="325" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ripzCSfUkpkU9whEppyo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9igJYdg4yH1vZDe2RQtB-3" source="FrziFFQu4rmucwJ09yhm-43" target="ripzCSfUkpkU9whEppyo-1">
           <mxGeometry relative="1" as="geometry">
@@ -196,6 +178,15 @@
         </mxCell>
         <mxCell id="ripzCSfUkpkU9whEppyo-8" value="Enter new password" style="whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#82b366;rounded=0;" vertex="1" parent="9igJYdg4yH1vZDe2RQtB-3">
           <mxGeometry x="1140" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9igJYdg4yH1vZDe2RQtB-310" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="9igJYdg4yH1vZDe2RQtB-3" source="FrziFFQu4rmucwJ09yhm-35" edge="1" target="FrziFFQu4rmucwJ09yhm-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="307" y="333" as="sourcePoint" />
+            <mxPoint x="194" y="426" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="53N5OKguzcm_HKgQLKbk-6" value="Changing Password" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1600" y="779" width="120" height="60" as="geometry" />
@@ -534,6 +525,15 @@
         </mxCell>
         <mxCell id="53N5OKguzcm_HKgQLKbk-25" value="User Profile Discription" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-700" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9igJYdg4yH1vZDe2RQtB-309" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FrziFFQu4rmucwJ09yhm-34" edge="1" target="FrziFFQu4rmucwJ09yhm-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-6" y="525" as="sourcePoint" />
+            <mxPoint x="116" y="526" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="445" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
